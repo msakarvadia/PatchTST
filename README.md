@@ -117,3 +117,7 @@ If you find this repo useful in your research, please consider citing our paper 
 }
 ```
 
+Mansi todo list
+-[] Ensure that the layer decodings can eventually actually match up with the real model prediction
+-[] Do fourier series of a sinusoidal curve and ensure that you really understand the fourier spectrum
+-[] maybe make a graph of hour the fourier series evolves over time
